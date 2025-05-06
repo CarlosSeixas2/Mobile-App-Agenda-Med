@@ -14,11 +14,11 @@ export default function App() {
         </TouchableOpacity>
       </Link>
 
-      <Link href="/register" asChild>
+      <Link href="/register-step-1" asChild>
         <TouchableOpacity
           style={{ padding: 10, backgroundColor: "#007AFF", borderRadius: 5 }}
         >
-          <Text style={{ color: "white" }}>Go to Register</Text>
+          <Text style={{ color: "white" }}>Go to Register </Text>
         </TouchableOpacity>
       </Link>
     </View>

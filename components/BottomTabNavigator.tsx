@@ -14,7 +14,7 @@ import {
   ProfileIcon,
 } from "@/assets/icons/Icons";
 import LoginScreen from "@/app/login";
-import RegisterScreen from "@/app/register";
+import RegisterScreen from "@/app/register-step-1";
 
 const Tab = createBottomTabNavigator();
 
